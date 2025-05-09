@@ -29,5 +29,5 @@ I'm an **embedded systems** and **web development** enthusiast. I specialize in 
 
 📫 How to reach me:
 - Email: sunsolutionscorporate@gmail.com
-- GitHub: [Your GitHub link]
+- GitHub: [https://github.com/SUN-solutions2025](https://github.com/SUN-solutions2025)
 - LinkedIn: [Your LinkedIn link]
