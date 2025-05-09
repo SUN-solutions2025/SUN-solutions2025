@@ -28,6 +28,6 @@ I'm an **embedded systems** and **web development** enthusiast. I specialize in 
 - Creating **REST APIs** for web services and integrating with **React** or other modern frontend frameworks
 
 📫 How to reach me:
-- Email: [sunsolutionscorporate@gmail.com]
+- Email: sunsolutionscorporate@gmail.com
 - GitHub: [Your GitHub link]
 - LinkedIn: [Your LinkedIn link]
